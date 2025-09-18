@@ -1,6 +1,6 @@
 # Bank Transaction Analysis
 
-
+![Bank Transaction Analysis](https://github.com/ZahraSahranavard/Bank-Transaction-Analysis/blob/main/Image/Banking_transaction_data_analysis.png)
 
 
 ## 📌 Project Overview
@@ -73,4 +73,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📬 Contact
 Developed by [Zahra Sahranavard](https://www.linkedin.com/in/zahra-sahranavard)  
 For inquiries: zahra.sahranavard7622@iau.ir
+
 
