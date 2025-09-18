@@ -5,7 +5,7 @@
 
 ## 📌 Project Overview
 
-This project provides an in-depth analysis of a bank transaction real dataset to uncover valuable insights into customer behavior, peak transaction times, and product sales performance. The analysis leverages Python’s data science ecosystem to transform raw data into actionable insights.
+This project provides an in-depth analysis of a real banking transaction dataset to uncover valuable insights into customer behavior, peak transaction times, and product sales performance. The analysis leverages Python’s data science ecosystem to transform raw data into actionable insights.
 
 The primary goals of this analysis are to answer the following questions:
 
@@ -73,6 +73,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📬 Contact
 Developed by [Zahra Sahranavard](https://www.linkedin.com/in/zahra-sahranavard)  
 For inquiries: zahra.sahranavard7622@iau.ir
+
 
 
 
